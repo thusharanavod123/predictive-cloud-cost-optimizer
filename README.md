@@ -1,4 +1,4 @@
-# predictive-cloud-cost-optimizer# Predictive Cloud Cost Optimizer
+# Predictive Cloud Cost Optimizer
 
 ## Description
 This project is a smart cloud cost optimization tool that leverages machine learning to analyze cloud usage patterns, predict cost spikes, and recommend or automate resource optimizations. It integrates with Terraform for infrastructure management and supports AWS/GCP APIs for real-time usage data.
